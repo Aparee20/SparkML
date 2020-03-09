@@ -1,4 +1,4 @@
-package org.spark.ml
+package org.spark.ml.regression
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.ml.regression.LinearRegression
