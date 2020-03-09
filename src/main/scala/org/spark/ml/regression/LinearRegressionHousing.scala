@@ -4,7 +4,7 @@ import org.apache.spark.sql.SparkSession
 import org.apache.spark.ml.regression.LinearRegression
 import org.apache.log4j._
 
-object logisticRegressionHousing extends App {
+object LinearRegressionHousing extends App {
 
   Logger.getLogger("org").setLevel(Level.ERROR)
 
